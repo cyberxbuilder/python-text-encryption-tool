@@ -1,4 +1,4 @@
-# 🔐 Text Encrypt/Decrypt Tool
+# 🔐 Python Text Encryption Tool
 
 A Python tool to **encrypt and decrypt text** with multiple ciphers and encodings.
 
@@ -12,20 +12,9 @@ A Python tool to **encrypt and decrypt text** with multiple ciphers and encoding
 - Hex Encode/Decode
 - Morse Code Encode/Decode
 
+## 📸 Preview
+![Tool Screenshot](https://github.com/cyberxbuilder/python-text-encryption-tool/blob/main/Screenshot_20250926_160434.jpg)
+
 ## ▶️ Run
 ```bash
 python main.py
-```
-
-## 💡 Example
-```
-Enter text: Hello
-Caesar (Shift 3): Khoor
-ROT13: Uryyb
-Atbash: Svool
-Reverse: olleH
-Base64: SGVsbG8=
-Binary: 01001000 01100101 01101100 01101100 01101111
-Hex: 48656c6c6f
-Morse: .... . .-.. .-.. ---
-```
